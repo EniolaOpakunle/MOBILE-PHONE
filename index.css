@@ -1,0 +1,34 @@
+#phonebody{
+    position: relative;
+    margin-top: 60px;
+    width: 300px;
+    height: 520px;
+    background-color: rgb(37, 36, 36);
+    left: 200px;
+    border-radius: 10px;
+    border: black 8px solid;
+}
+#powerbutton{
+    position: relative;
+    left: 285px;
+    background-color: black;
+    width: 13px;
+    border-radius: 5px;
+    height: 40px;
+    top: 130px;
+}
+#homescreenButtons{
+    display: none;
+    position: absolute;
+    top: 430px;
+    left: 150px;
+}
+.buttons{
+    /* position: absolute; */
+    background-color: rgb(70, 70, 161);
+    padding: 8px;
+    border-radius: 5px;
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
